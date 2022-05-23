@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //utility to use scanner for user input console
 
 public class Main {
 
